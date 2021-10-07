@@ -1,6 +1,6 @@
 # Hi there
 
-Hi I'm Kerim, a Full-Stack Developer & Open Source enthusiast. On a never-ending quest of learning!
+I'm Kerim, a Full-Stack Developer & Open Source enthusiast. On a never-ending quest of learning!
 
 ### 👨‍💻 Languages and Tools
 
