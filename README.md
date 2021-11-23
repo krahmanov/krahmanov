@@ -1,1 +1,1 @@
-![](https://github.com/krahmanov/krahmanov/animation.gif)
+![KRahmanov](https://raw.githubusercontent.com/krahmanov/krahmanov/main/animation.gif)
